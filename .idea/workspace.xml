@@ -6,13 +6,27 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a70130-a6cb-4455-87a5-3154de2d6d1a" name="Default Changelist" comment="" />
+    <list default="true" id="79a8952b-b86b-48b5-b53a-7a40ceeaf6e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/EquipoFutbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/CocheAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/EquipoAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_coche.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_coche.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_One_API_26_3.7" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -33,18 +47,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1jQHsJol3kHNnV3DnV6ARbOKyeZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1jVYAQBs09I3za0rkHwFptKEaPh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-28T13:14:20.453Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -55,8 +70,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="app" />
+    <configuration name="ejemplorecyclerview-app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ejemplorecyclerview-app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -112,18 +127,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f6a70130-a6cb-4455-87a5-3154de2d6d1a" name="Default Changelist" comment="" />
-      <created>1603729602128</created>
+      <changelist id="79a8952b-b86b-48b5-b53a-7a40ceeaf6e7" name="Default Changelist" comment="" />
+      <created>1603890581523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603729602128</updated>
+      <updated>1603890581523</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2365" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1603730605725">
-      <screen x="1920" y="0" width="1280" height="920" />
+    <state x="560" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603908698199">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2365" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1603730605725" />
+    <state x="560" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1603908698199" />
   </component>
 </project>
