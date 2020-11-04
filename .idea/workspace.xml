@@ -12,7 +12,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/EquipoFutbol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/CocheAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/EquipoAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cescristorey/recyclerview/ejemplorecyclerview/MainActivity.java" afterDir="false" />
@@ -50,6 +52,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jVYAQBs09I3za0rkHwFptKEaPh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,6 +66,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1391005334">
+      <recent name="com.cescristorey.recyclerview.ejemplorecyclerview" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -136,9 +146,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1604422143493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1604422143493" />
     <state x="560" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603908698199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1603908698199" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1604420852005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1604420852005" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1604420852005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1604420852005" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1604420852005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1604420852005" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1604420852005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1604420852005" />
+    <state x="702" y="136" key="refactoring.ChangeSignatureDialog" timestamp="1604423563606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="136" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1604423563606" />
   </component>
 </project>
